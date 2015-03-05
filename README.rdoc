@@ -1,5 +1,9 @@
 com.src.examples -> contains few sample example projects.
  
- AddingArray.java : In two sorted arrays of integers, this program finds the pair of indices (one into each array) which identify elements which sum to a given integer, if any such pair exists.
+ AddingArray.java  : In two sorted arrays of integers, this program 
+                     finds the pair of indices (one into each array)  
+                     which identify elements which sum to a given integer,
+                     if any such pair exists.
  
- Sub_Sequence.java :  It gives the largest monotonically contagious subsequence in a given sequence and reverses it.
+ Sub_Sequence.java : It gives the largest monotonically contagious 
+                     subsequence in a given sequence and reverses it.
